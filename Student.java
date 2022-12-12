@@ -1,6 +1,3 @@
-// Name: MY CHI DUONG
-// Student Number: 500641750
-
 import java.util.ArrayList;
 
 public class Student implements Comparable<Student>
