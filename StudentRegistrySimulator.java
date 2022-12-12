@@ -1,6 +1,3 @@
-// Name: MY CHI DUONG
-// Student Number: 500641750
-
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.NoSuchElementException;
