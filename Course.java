@@ -1,5 +1,3 @@
-// Name: MY CHI DUONG
-// Student Number: 500641750
 
 public class Course implements Comparable<Course>
 {
