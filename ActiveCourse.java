@@ -1,5 +1,3 @@
-// Name: MY CHI DUONG
-// Student Number: 500641750
 
 import java.util.ArrayList;
 import java.util.Collections;
