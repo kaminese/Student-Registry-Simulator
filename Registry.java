@@ -1,6 +1,3 @@
-// Name: MY CHI DUONG
-// Student Number: 500641750
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
