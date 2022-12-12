@@ -1,6 +1,3 @@
-// Name: MY CHI DUONG
-// Student Number: 500641750
-
 import java.util.Iterator;
 import java.util.Set;
 import java.util.TreeMap;
